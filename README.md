@@ -60,16 +60,6 @@ I enjoy exploring the intersection of **Backend Engineering, Agentic AI, LLMs, a
 
 ---
 
-### 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aakashsiwach19&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashsiwach19&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aakashsiwach19&theme=tokyonight&hide_border=true)
-
----
-
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aakashsiwach)
