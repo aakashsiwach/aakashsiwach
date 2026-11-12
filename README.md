@@ -10,7 +10,7 @@ I'm a full-stack engineer with **5+ years** of experience building scalable back
 - 🌱 Currently learning RAG and deeper multi-agent orchestration.
 - 💡 Believe in clean architecture, continuous learning and building things that matter.
 
-🌐 **Portfolio:** [aakashsiwach.github.io](https://aakashsiwach.github.io/)
+🌐 **Portfolio:** [aakashsiwach.github.io](https://aakashsiwach.github.io/) · 📄 [Resume](https://aakashsiwach.github.io/assets/Aakash_Siwach_Resume.pdf) · ✉️ [Cover Letter](https://aakashsiwach.github.io/assets/Aakash_Siwach_Cover_Letter.pdf) · ✍️ [Articles](https://innostax.com/author/aakash)
 
 ---
 
@@ -93,6 +93,7 @@ I'm a full-stack engineer with **5+ years** of experience building scalable back
 ### 🤝 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6E56CF?style=for-the-badge&logo=githubpages&logoColor=white)](https://aakashsiwach.github.io/)
+[![Resume](https://img.shields.io/badge/Resume-Download-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://aakashsiwach.github.io/assets/Aakash_Siwach_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aakashsiwach/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/aakashsiwach)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashsiwach19@gmail.com)
