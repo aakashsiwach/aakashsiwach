@@ -1,12 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:a78bfa,100:f472b6&height=190&section=header&text=Aakash%20Siwach&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Project%20Lead%20%C2%B7%20SDE%20II%20%C2%B7%20Backend%20%26%20AI%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" alt="Aakash Siwach" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://aakashsiwach.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Java+%C2%B7+Spring+Boot+microservices;Python+%C2%B7+FastAPI+%C2%B7+AI+agents;RAG+over+codebases+with+cited+answers;Payment+systems+%C2%B7+3DS+%C2%B7+PCI+DSS;Leading+a+team+of+9%2B+engineers" alt="Typing intro" />
-  </a>
+  <a href="https://aakashsiwach.github.io/"><img src="./assets/header.svg" alt="Aakash Siwach — Project Lead · SDE II · Backend & AI Engineer" width="100%" /></a>
 </p>
 
 <p align="center">
@@ -164,4 +158,4 @@ Ask *"What breaks if I change the `Owner` entity?"* or *"Which services call `/o
 
 <p align="center"><i>Building today. Improving tomorrow. Contributing along the way.</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,50:a78bfa,100:22d3ee&height=110&section=footer" alt="" width="100%" />
+<img src="./assets/footer.svg" alt="" width="100%" />
