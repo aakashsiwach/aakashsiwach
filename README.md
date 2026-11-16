@@ -34,6 +34,7 @@ building:  CodeAtlas  →  RAG for Java codebases with file-and-line citations
 
 - 🏥 **Leading Tendable** — a cloud quality-inspection and auditing platform for health & social care (React Remix, Kotlin, Swift, Rails + QA). Code review, prioritisation, deployments and releases.
 - 🤖 **Building QA Scanner** — AI agents crawl a site with Playwright to generate test cases and find bugs, vulnerabilities and SEO issues. Moved from a Node.js monolith to Python/FastAPI microservices with parallel multi-model runs, an MCP server, evals and Langfuse.
+- 🧩 **Co-built dev-harness** with the CTO — an internal Claude Code plugin used by Innostax developers that reviews GitHub PRs against team coding standards and runs Jira tasks end to end (analyse, plan, code, test, fix, check acceptance criteria, comment on the ticket).
 - 🧭 **Built CodeAtlas** — an open-source, evaluation-driven RAG assistant for Java/Spring Boot codebases (details below).
 - 💳 **Previously** — led the global payment flow for Bancstac (VISA, Mastercard, Amex, UnionPay, JCB, 3DS, PCI DSS) on Spring Boot microservices, cutting gateway latency by ~20%.
 
@@ -44,7 +45,7 @@ building:  CodeAtlas  →  RAG for Java codebases with file-and-line citations
 | Area | What I've built |
 |---|---|
 | **APIs & microservices** | Python/FastAPI services for QA Scanner v2 and CodeAtlas; Java/Spring Boot microservices with RabbitMQ for payments |
-| **LLM application platform** | Parallel multi-model execution with combined responses, provider-agnostic LLM layer (Claude, OpenAI, Bedrock), MCP server |
+| **LLM application platform** | Parallel multi-model execution with combined responses, provider-agnostic LLM layer (Claude, OpenAI, Bedrock), MCP server, Claude Code plugin (dev-harness) for AI PR review and Jira automation |
 | **Observability & evals** | Langfuse tracing and monitoring for LLM calls; eval harnesses (recall@k, MRR, faithfulness) with held-out test splits |
 | **Retrieval & data** | Qdrant vector store + BM25 hybrid search, rerankers; PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch |
 | **Delivery & cloud** | Docker, AWS, Jenkins and GitHub Actions CI/CD; dev & staging deployments and release coordination |
@@ -67,7 +68,7 @@ Ask *"What breaks if I change the `Owner` entity?"* or *"Which services call `/o
 - 🎯 **Cross-encoder reranking** that also drives the refusal threshold
 - 🕸️ **Code graph** (NetworkX) for change-impact and caller/callee questions
 - 📏 **Eval harness** — 64-question set with a held-out test split, recall@k / MRR / faithfulness
-- ⚡ Incremental indexing, GitHub webhook re-index, FastAPI + streaming, React/TS UI
+- ⚡ Incremental indexing, GitHub webhook re-index, FastAPI + CLI, SQLite, Docker, pytest, React/TS UI
 
 </td>
 <td width="42%" valign="top">
@@ -122,6 +123,7 @@ Ask *"What breaks if I change the `Owner` entity?"* or *"Which services call `/o
   <img src="https://img.shields.io/badge/RAG-0b1220?style=for-the-badge&logo=databricks&logoColor=22d3ee" />
   <img src="https://img.shields.io/badge/AI_Agents-0b1220?style=for-the-badge&logo=probot&logoColor=a78bfa" />
   <img src="https://img.shields.io/badge/MCP-0b1220?style=for-the-badge&logo=anthropic&logoColor=f472b6" />
+  <img src="https://img.shields.io/badge/Claude_Code_Plugins-0b1220?style=for-the-badge&logo=claude&logoColor=D97757" />
   <img src="https://img.shields.io/badge/LLM_Evals-0b1220?style=for-the-badge&logo=checkmarx&logoColor=34d399" />
   <img src="https://img.shields.io/badge/Langfuse-0b1220?style=for-the-badge&logo=grafana&logoColor=fbbf24" />
   <img src="https://img.shields.io/badge/Qdrant-0b1220?style=for-the-badge&logo=qdrant&logoColor=DC244C" />
@@ -151,10 +153,14 @@ Ask *"What breaks if I change the `Owner` entity?"* or *"Which services call `/o
 - 🧳 SafariNow: ~32% less system complexity and ~78% gain in customer satisfaction
 - 🚀 TravelStart: ~30–40% faster with Hibernate second-level caching
 - 🌐 Innostax website: ~40% faster after removing ~187 KiB unused CSS and ~87 KiB unused JS
-- 🏫 Built and maintain [neweraworldschool.in](https://neweraworldschool.in/)
+- 🏫 Built and maintain [neweraworldschool.in](https://neweraworldschool.in/) — admissions enquiry, campus-visit booking, gallery, blog, WhatsApp
 - ✍️ Articles on the [Innostax blog](https://innostax.com/author/aakash)
 
-🎓 MCA — Dewan Institute of Management Studies, Meerut · BCA — CCS University, Meerut
+🏆 Client Hero of the Year (2023–24) · Star of the Month (Apr 2023) · Fast Star Champion (Dec 2022)
+
+📜 IBM Applied Data Science with Python – Level 2 · IBM Data Visualization with Python
+
+🎓 MCA — Dewan Institute of Management Studies, Meerut (AKTU), CGPA 8.5, Honours · BCA — CCS University, Meerut, 70%, 2nd rank in college
 </details>
 
 ---
