@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:a78bfa,100:f472b6&height=190&section=header&text=Aakash%20Siwach&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Project%20Lead%20%C2%B7%20SDE%20II%20%C2%B7%20Python%20%26%20Platform%20AI%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" alt="Aakash Siwach" width="100%" />
+  <img src="assets/header.svg" alt="Aakash Siwach — Project Lead · SDE II · Python & Platform AI Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -99,10 +99,10 @@ Ask *"What breaks if I change the `Owner` entity?"* or *"Which services call `/o
 
 <p align="center">
   <a href="https://github.com/aakashsiwach/codeatlas-rag">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aakashsiwach&repo=codeatlas-rag&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=22d3ee&icon_color=a78bfa" alt="CodeAtlas repo card" />
+    <img src="assets/codeatlas-card.svg" width="400" alt="CodeAtlas repo card" />
   </a>
   <a href="https://github.com/aakashsiwach/aakashsiwach.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aakashsiwach&repo=aakashsiwach.github.io&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=22d3ee&icon_color=a78bfa" alt="Portfolio repo card" />
+    <img src="assets/portfolio-card.svg" width="400" alt="Portfolio repo card" />
   </a>
 </p>
 
@@ -168,10 +168,6 @@ Ask *"What breaks if I change the `Owner` entity?"* or *"Which services call `/o
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aakashsiwach&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=22d3ee&icon_color=a78bfa&text_color=e7ecf5" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashsiwach&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=22d3ee&text_color=e7ecf5" alt="Top languages" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=aakashsiwach&theme=tokyonight&hide_border=true&background=0b1220&ring=a78bfa&fire=f472b6&currStreakLabel=22d3ee" alt="GitHub streak" />
 </p>
 
@@ -185,4 +181,4 @@ Ask *"What breaks if I change the `Owner` entity?"* or *"Which services call `/o
 
 <p align="center"><i>Building today. Improving tomorrow. Contributing along the way.</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,50:a78bfa,100:22d3ee&height=110&section=footer" alt="" width="100%" />
+<img src="assets/footer.svg" alt="" width="100%" />

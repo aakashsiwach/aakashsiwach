@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="130" viewBox="0 0 400 130">
+  <rect x=".5" y=".5" width="399" height="129" rx="10" fill="#0b1220" stroke="#1f2a44"/>
+  <g transform="translate(22,24)" fill="#a78bfa"><path d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 010-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5zm10.5-1h-8a1 1 0 00-1 1v6.708A2.486 2.486 0 014.5 9h8z"/></g>
+  <text x="46" y="37" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#22d3ee">aakashsiwach.github.io</text>
+  <text x="22" y="66" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#e7ecf5">Animated, SEO-optimized portfolio with</text>
+  <text x="22" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#e7ecf5">interview prep hub and mini-games</text>
+  <circle cx="28" cy="108" r="6" fill="#e34c26"/>
+  <text x="40" y="113" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa4b8">HTML · CSS · JavaScript</text>
+</svg>
