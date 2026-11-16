@@ -1,11 +1,11 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:a78bfa,100:f472b6&height=190&section=header&text=Aakash%20Siwach&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Project%20Lead%20%C2%B7%20SDE%20II%20%C2%B7%20Backend%20%26%20AI%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" alt="Aakash Siwach" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:a78bfa,100:f472b6&height=190&section=header&text=Aakash%20Siwach&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Project%20Lead%20%C2%B7%20SDE%20II%20%C2%B7%20Python%20%26%20Platform%20AI%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" alt="Aakash Siwach" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://aakashsiwach.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Java+%C2%B7+Spring+Boot+microservices;Python+%C2%B7+FastAPI+%C2%B7+AI+agents;RAG+over+codebases+with+cited+answers;Payment+systems+%C2%B7+3DS+%C2%B7+PCI+DSS;Leading+a+team+of+9%2B+engineers" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Python+%C2%B7+FastAPI+%C2%B7+microservices;Production+LLM+apps+%C2%B7+observability+%C2%B7+evals;AI+agents+%C2%B7+MCP+%C2%B7+multi-model+pipelines;Java+%C2%B7+Spring+Boot+microservices;RAG+over+codebases+with+cited+answers;Payment+systems+%C2%B7+3DS+%C2%B7+PCI+DSS;Leading+a+team+of+9%2B+engineers" alt="Typing intro" />
   </a>
 </p>
 
@@ -26,7 +26,9 @@ name:      Aakash Siwach
 role:      Project Lead & SDE II @ Innostax Software Labs
 location:  Gurugram, India  ·  remote-friendly
 experience: 5+ years  ·  leading 9+ engineers & QAs
-focus:     [Java / Spring Boot, Python / FastAPI, RAG, AI agents, MCP, LLM evals]
+focus:     [Python / FastAPI, microservices, LLM platforms, RAG, AI agents, MCP,
+            observability & evals, Java / Spring Boot]
+domains:   healthcare (regulated) · fintech (PCI DSS) · developer tooling
 building:  CodeAtlas  →  RAG for Java codebases with file-and-line citations
 ```
 
@@ -34,6 +36,19 @@ building:  CodeAtlas  →  RAG for Java codebases with file-and-line citations
 - 🤖 **Building QA Scanner** — AI agents crawl a site with Playwright to generate test cases and find bugs, vulnerabilities and SEO issues. Moved from a Node.js monolith to Python/FastAPI microservices with parallel multi-model runs, an MCP server, evals and Langfuse.
 - 🧭 **Built CodeAtlas** — an open-source, evaluation-driven RAG assistant for Java/Spring Boot codebases (details below).
 - 💳 **Previously** — led the global payment flow for Bancstac (VISA, Mastercard, Amex, UnionPay, JCB, 3DS, PCI DSS) on Spring Boot microservices, cutting gateway latency by ~20%.
+
+---
+
+## 🛠️ Platform & production AI — what I actually run
+
+| Area | What I've built |
+|---|---|
+| **APIs & microservices** | Python/FastAPI services for QA Scanner v2 and CodeAtlas; Java/Spring Boot microservices with RabbitMQ for payments |
+| **LLM application platform** | Parallel multi-model execution with combined responses, provider-agnostic LLM layer (Claude, OpenAI, Bedrock), MCP server |
+| **Observability & evals** | Langfuse tracing and monitoring for LLM calls; eval harnesses (recall@k, MRR, faithfulness) with held-out test splits |
+| **Retrieval & data** | Qdrant vector store + BM25 hybrid search, rerankers; PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch |
+| **Delivery & cloud** | Docker, AWS, Jenkins and GitHub Actions CI/CD; dev & staging deployments and release coordination |
+| **Reliability & security** | ~20% lower gateway latency, 3DS / PCI DSS payment flows, confidence-based refusals, incremental re-indexing via webhooks |
 
 ---
 
@@ -114,7 +129,7 @@ Ask *"What breaks if I change the `Owner` entity?"* or *"Which services call `/o
   <img src="https://img.shields.io/badge/Cypress-0b1220?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-0b1220?style=for-the-badge&logo=selenium&logoColor=43B02A" />
 </p>
-<p align="center"><sub>Currently going deeper on <b>LangGraph</b>, multi-agent orchestration and <b>Kubernetes</b>.</sub></p>
+<p align="center"><sub>Currently going deeper on <b>Kubernetes</b>, <b>Terraform</b>, <b>vLLM</b> model serving, <b>LangGraph</b> and multi-agent orchestration.</sub></p>
 
 ---
 
