@@ -108,6 +108,18 @@ Ask *"What breaks if I change the `Owner` entity?"* or *"Which services call `/o
 
 ---
 
+## 🧰 More open-source projects
+
+- [scaletest-mcp](https://github.com/aakashsiwach/scaletest-mcp) — MCP-based load and reliability testing toolkit.
+- [ai-document-analyzer](https://github.com/aakashsiwach/ai-document-analyzer) — AI-powered document analysis application.
+- [testcase-management](https://github.com/aakashsiwach/testcase-management) — Full-stack test case management application.
+- [shubh-nimantran](https://github.com/aakashsiwach/shubh-nimantran) — Animated digital invitation and wedding card platform.
+- [mergeworthy](https://github.com/aakashsiwach/mergeworthy) — Git workflow / merge-readiness developer tooling.
+- [taintmap](https://github.com/aakashsiwach/taintmap) — Security-oriented taint analysis and mapping tool.
+- [codeatlas-rag](https://github.com/aakashsiwach/codeatlas-rag) — RAG assistant for codebases with cited answers.
+
+---
+
 ## 🧠 Tech stack
 
 <p align="center"><b>Languages & backend</b><br/><br/>
